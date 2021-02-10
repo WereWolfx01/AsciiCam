@@ -1,3 +1,10 @@
+# Aeman Abdulmuhssen 
+# CIS3760 open source android project
+
+Overwiew of this project is to implment new improvment to the app and features for a better user expericne. All of this is done by group 5 people using Agile methodoligies and scrum 
+
+
+
 # AsciiCam
 
 As of March 2018 AsciiCam is not under active development. I may fix bugs but don't plan to add new features.
