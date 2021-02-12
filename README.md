@@ -3,6 +3,9 @@
 
 Overwiew of this project is to implment new improvment to the app and features for a better user expericne. All of this is done by group 5 people using Agile methodoligies and scrum 
 
+WORK IN PROGRESS. 
+** NO NEW FEATURES IMPLEMENTED YET
+
 
 
 # AsciiCam
